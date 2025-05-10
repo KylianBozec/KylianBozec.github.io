@@ -31,9 +31,16 @@ header {
   transform: scale(1.03);
 }
 
+h2 {
+  text-align: center;
+  margin-top: 2rem;
+  color: #9a7b4f;
+}
+
 footer {
   text-align: center;
   padding: 1rem;
-  background: #eee;
+  background: #f5f5dc;
+  color: #333;
 }
 
